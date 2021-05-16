@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/logoutMenu"
+        android:orderInCategory="100"
+        android:fontFamily="@font/cutive_mono"
+        app:showAsAction="always"
+        android:title="Logout">
+
+    </item>
+
+    <item
+        android:id="@+id/settingsMenu"
+        android:orderInCategory="200"
+        android:fontFamily="@font/cutive_mono"
+        app:showAsAction="never"
+        android:title="Einstellungen">
+
+    </item>
+
+    <item
+        android:id="@+id/profileMenu"
+        android:orderInCategory="300"
+        android:fontFamily="@font/cutive_mono"
+        app:showAsAction="never"
+        android:title="Profil">
+
+    </item>
+
+    <item
+        android:id="@+id/refreshMenu"
+        android:orderInCategory="400"
+        android:fontFamily="@font/cutive_mono"
+        app:showAsAction="never"
+        android:title="Wiederherstellen">
+
+    </item>
+
+</menu>

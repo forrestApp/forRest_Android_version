@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenText" parent="TextAppearance.AppCompat">
+            <item name="android:textColor"> #2d4f15 </item>
+    </style>
+    <style name="Button" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily"> @font/gloria_hallelujah </item>
+        <item name="android:gravity"> center </item>
+        <item name="android:colorBackground"> @color/green </item>
+        <item name="android:textSize"> 18sp </item>
+    </style>
+    <style name="PrimaryActionButton" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/light_yellow</item>
+    </style>
+</resources>

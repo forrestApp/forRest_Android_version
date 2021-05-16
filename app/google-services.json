@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088686504024",
+    "project_id": "forrest-android",
+    "storage_bucket": "forrest-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088686504024:android:2eb22b16bc8b79f1df322d",
+        "android_client_info": {
+          "package_name": "com.example.forrest_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088686504024-dkpm1ag40hr4suoqgpqlkkpvd124jv75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpHh8Qb3LFvxTBS4bvlW9cj8mW26bxlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088686504024-dkpm1ag40hr4suoqgpqlkkpvd124jv75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
